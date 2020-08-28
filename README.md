@@ -1,2 +1,32 @@
-# Proyetos_Deep_Learning
-Meu portfólio de projetos de Deep Learning
+[![author](https://img.shields.io/badge/author-NiloBM-red.svg)](https://www.linkedin.com/in/nilo-barrantesm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
+<p align="center">
+  <img src="machine-learning-definition.jpeg" >
+</p>
+
+# Nilo Barrantes Melgar
+<sub>*Jr Data Scientist*</sub>
+
+As an experienced master's and doctoral researcher, I combine analytical skills, strong logical-mathematical reasoning, ability to work under pressure and attention to details. Having spend the last years studying how to improve existing neural network models, I developed critical thinking and problem-solving skills.
+
+My credentials include a PHD's in Physics in the field of Neural Network from the Brazilian Center for Research in Physics (CBPF), a pioneer institution in the development of scientific research in theoretical and experimental physics in Brazil, and a Master's in Physics in the field of Nonextensive statistical mechanics from the CBPF.
+
+**Background in:** Python, Machine Learning, Neural Network, Computational Physics and Mathematical Optimization.
+
+**Links:**
+* [Blog](http://sigmoidal.ai)
+* [LinkedIn](https://www.linkedin.com/in/nilo-barrantesm/)
+
+
+## Projetos:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
+* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
+* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
+---
+
