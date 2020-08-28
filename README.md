@@ -16,6 +16,7 @@ My credentials include a PHD's in Physics in the field of Neural Network from th
 **Links:**
 * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/nilo-barrantesm/)
+* [Medium](https://medium.com/@nilobarrantes/)
 
 
 ## Projetos:
