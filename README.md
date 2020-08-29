@@ -22,8 +22,7 @@ My credentials include a PHD's in Physics in the field of Neural Network from th
 ## Projetos:
 Proyetos com redes neuronais convolucionais:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **Como reconhecer cavalos de Humanos:** https://bit.ly/2EBwO0D
 
 ---
 
