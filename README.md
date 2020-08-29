@@ -14,9 +14,10 @@ My credentials include a PHD's in Physics in the field of Neural Network from th
 **Background in:** Python, Machine Learning, Neural Network, Computational Physics and Mathematical Optimization.
 
 **Links:**
-* [Blog](https://nilobarrantesnn.blogspot.com/)
+
 * [LinkedIn](https://www.linkedin.com/in/nilo-barrantesm/)
 * [Medium](https://medium.com/@nilobarrantes/)
+* [Blog-Constr](https://nilobarrantesnn.blogspot.com/)
 
 
 ## Projetos:
