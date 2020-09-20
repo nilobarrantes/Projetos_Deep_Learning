@@ -24,6 +24,7 @@ My credentials include a PHD's in Physics in the field of Neural Network from th
 Proyetos com redes neuronais convolucionais:
 * **Ola Mundo! com Deep Learning:** https://bit.ly/3jrEphe
 * **Como reconhecer cavalos de Humanos:** https://bit.ly/2EBwO0D
+* **Reconhecendo Gatos de Cachorros - Kaggle:** https://bit.ly/3cj1gc9
 
 ---
 
